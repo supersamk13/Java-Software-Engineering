@@ -1,10 +1,10 @@
 # Java-Software-Engineering
 Software engineering and development projects I have worked on in Java. 
 
-Project: Web Crawler
-Project Summary:
+## Project: Web Crawler
 
-The project is a Java application called "Web Page Scanner and Image Viewer." It consists of two main components: a web page scanner (PageScanner) and an image viewer (PictureViewer). The web page scanner is designed to explore web pages, extract links, and launch new threads to scan linked pages. The image viewer displays images found during the scanning process.
+### Project Summary:
+The project is a Java application called "Web Page Scanner and Image Viewer." It consists of two main components: a web page scanner (PageScanner) and an image viewer (PictureViewer). The web page scanner is designed to explore web pages, extract links, and launch new threads to scan linked pages. The image viewer displays images found during the scanning process. The project is run via the Driver. 
 
 ### Key Features:
 
