@@ -30,3 +30,6 @@ Displays image names and handles URL encoding for proper image retrieval.
 Implements data structures such as HashSet for efficient storage and retrieval of processed links and images.
 Utilizes multithreading algorithms for effective web crawling and exploration.
 Overall, this project offers a robust and scalable solution for web page scanning and image viewing, showcasing effective multithreading, data structures, and algorithmic techniques in Java.
+
+
+## Project: Custom Binary Search Tree (TreeMap) Implementation With Added Functionality
